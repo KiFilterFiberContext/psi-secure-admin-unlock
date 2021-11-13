@@ -107,4 +107,18 @@ Use "psi-bastion [command] --help" for more information about a command.
 subcommand is required
 ```
 
+Using the binary directly, we are able to decrypt the information stored in `secrets.json`.  
+
+```sh
+echo '{"control": {"keys": ["adminPanel"]}, "body": {"adminPanel": {"security": {"keystrokeCombination": "Eecew3lr-7QHE2ZXWQuVf3U5zEOn7A==", "adminPanelPassCode": "M70k3JolNxSphfTCcIryWNAMdYGAPE-EPEhkjC_s"}}}}' | ./.apps/windows/x64/psi-bastion.exe crypt decrypt
+{"adminPanel":{"security":{"keystrokeCombination":"...","adminPanelPassCode":"..."}}}
+```
+
+Internally, the binary relies on 128/256-bit AES to encrypt/decrypt information with a hardcoded key.
+![image](https://user-images.githubusercontent.com/51222153/141659084-19a2ec1f-8cd9-4c6a-bc25-d702189823ef.png)
+
+## Results
+Entering the admin passcode into the admin panel will reveal several tools that allow for controlling the environment. 
+
+![image](https://user-images.githubusercontent.com/51222153/141659125-728b4245-0d46-4bec-8ed7-54794fd29b42.png)
 
