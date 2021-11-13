@@ -114,11 +114,12 @@ echo '{"control": {"keys": ["adminPanel"]}, "body": {"adminPanel": {"security": 
 {"adminPanel":{"security":{"keystrokeCombination":"...","adminPanelPassCode":"..."}}}
 ```
 
-Internally, the binary relies on 128/256-bit AES to encrypt/decrypt information with a hardcoded key.
+Internally, the binary relies on a 128/256-bit AES cipher to encrypt/decrypt information with a hardcoded symmetric key.
+
 ![image](https://user-images.githubusercontent.com/51222153/141659084-19a2ec1f-8cd9-4c6a-bc25-d702189823ef.png)
 
 ## Results
-Entering the admin passcode into the admin panel will reveal several tools that allow for controlling the environment. 
+Entering the admin passcode into the admin panel will reveal several tools that allow for controlling the environment.  There are options to open the dev tools panel, list/kill processes and disable security. 
 
 ![image](https://user-images.githubusercontent.com/51222153/141659125-728b4245-0d46-4bec-8ed7-54794fd29b42.png)
 
