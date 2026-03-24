@@ -5,7 +5,6 @@
   xsi:schemaLocation="https://raw.githubusercontent.com/KiFilterFiberContext/psi-secure-admin-unlock/refs/heads/main/
                       https://raw.githubusercontent.com/KiFilterFiberContext/psi-secure-admin-unlock/refs/heads/main/NationalParks.xsd">
 
-  <!-- Grand Canyon -->
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
@@ -20,7 +19,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Olympic -->
   <NationalPark Rating="4.8">
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
@@ -34,7 +32,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Badlands -->
   <NationalPark>
     <Name>Badlands</Name>
     <Phone>605-433-5361</Phone>
@@ -47,7 +44,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Crater Lake -->
   <NationalPark Rating="4.9">
     <Name>Crater Lake</Name>
     <Phone>541-594-3000</Phone>
@@ -60,7 +56,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Shenandoah -->
   <NationalPark>
     <Name>Shenandoah</Name>
     <Phone>540-999-3500</Phone>
@@ -73,7 +68,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Denali -->
   <NationalPark Rating="4.7">
     <Name>Denali</Name>
     <Phone>907-683-9532</Phone>
@@ -87,7 +81,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Death Valley -->
   <NationalPark>
     <Name>Death Valley</Name>
     <Phone>760-786-3200</Phone>
@@ -100,7 +93,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Rocky Mountain -->
   <NationalPark Rating="4.9">
     <Name>Rocky Mountain</Name>
     <Phone>970-586-1206</Phone>
@@ -113,7 +105,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Mammoth Cave -->
   <NationalPark>
     <Name>Mammoth Cave</Name>
     <Phone>270-758-2180</Phone>
@@ -126,7 +117,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Hot Springs -->
   <NationalPark Rating="4.6">
     <Name>Hot Springs</Name>
     <Phone>501-620-6715</Phone>
@@ -139,7 +129,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Haleakala -->
   <NationalPark>
     <Name>Haleakala</Name>
     <Phone>808-572-4400</Phone>
