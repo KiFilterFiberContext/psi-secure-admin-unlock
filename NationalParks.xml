@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalParks>
+
+  <!-- Grand Canyon -->
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Olympic -->
+  <NationalPark Rating="4.8">
+    <Name>Olympic</Name>
+    <Phone>360-565-3130</Phone>
+    <Phone>360-565-3131</Phone>
+    <Address NearestAirport="SEA">
+      <Number>3002</Number>
+      <Street>Mount Angeles Road</Street>
+      <City>Port Angeles</City>
+      <State>WA</State>
+      <Zip>98362</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Badlands -->
+  <NationalPark>
+    <Name>Badlands</Name>
+    <Phone>605-433-5361</Phone>
+    <Address NearestAirport="RAP">
+      <Number>25216</Number>
+      <Street>Ben Reifel Road</Street>
+      <City>Interior</City>
+      <State>SD</State>
+      <Zip>57750</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Crater Lake -->
+  <NationalPark Rating="4.9">
+    <Name>Crater Lake</Name>
+    <Phone>541-594-3000</Phone>
+    <Address NearestAirport="MFR">
+      <Number>1</Number>
+      <Street>Crater Lake Highway</Street>
+      <City>Crater Lake</City>
+      <State>OR</State>
+      <Zip>97604</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Shenandoah -->
+  <NationalPark>
+    <Name>Shenandoah</Name>
+    <Phone>540-999-3500</Phone>
+    <Address NearestAirport="CHO">
+      <Number>3655</Number>
+      <Street>US Highway 211 East</Street>
+      <City>Luray</City>
+      <State>VA</State>
+      <Zip>22835</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Denali -->
+  <NationalPark Rating="4.7">
+    <Name>Denali</Name>
+    <Phone>907-683-9532</Phone>
+    <Phone>907-683-2294</Phone>
+    <Address NearestAirport="FAI">
+      <Number>1</Number>
+      <Street>George Parks Highway</Street>
+      <City>Denali Park</City>
+      <State>AK</State>
+      <Zip>99755</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Death Valley -->
+  <NationalPark>
+    <Name>Death Valley</Name>
+    <Phone>760-786-3200</Phone>
+    <Address NearestAirport="LAS">
+      <Number>328</Number>
+      <Street>Greenland Blvd</Street>
+      <City>Death Valley</City>
+      <State>CA</State>
+      <Zip>92328</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Rocky Mountain -->
+  <NationalPark Rating="4.9">
+    <Name>Rocky Mountain</Name>
+    <Phone>970-586-1206</Phone>
+    <Address NearestAirport="DEN">
+      <Number>1000</Number>
+      <Street>US Highway 36</Street>
+      <City>Estes Park</City>
+      <State>CO</State>
+      <Zip>80517</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Mammoth Cave -->
+  <NationalPark>
+    <Name>Mammoth Cave</Name>
+    <Phone>270-758-2180</Phone>
+    <Address NearestAirport="BNA">
+      <Number>1</Number>
+      <Street>Mammoth Cave Parkway</Street>
+      <City>Mammoth Cave</City>
+      <State>KY</State>
+      <Zip>42259</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Hot Springs -->
+  <NationalPark Rating="4.6">
+    <Name>Hot Springs</Name>
+    <Phone>501-620-6715</Phone>
+    <Address NearestAirport="LIT">
+      <Number>101</Number>
+      <Street>Reserve Street</Street>
+      <City>Hot Springs</City>
+      <State>AR</State>
+      <Zip>71901</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Haleakala -->
+  <NationalPark>
+    <Name>Haleakala</Name>
+    <Phone>808-572-4400</Phone>
+    <Phone>808-572-4402</Phone>
+    <Address NearestAirport="OGG">
+      <Number>30000</Number>
+      <Street>Haleakala Highway</Street>
+      <City>Kula</City>
+      <State>HI</State>
+      <Zip>96790</Zip>
+    </Address>
+  </NationalPark>
+
+</NationalParks>
